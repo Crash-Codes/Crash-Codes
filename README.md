@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋-->
 
 
 <div id="header" align="center">
@@ -17,7 +17,10 @@
 </div>
 
 <img src="https://komarev.com/ghpvc/?username=Crash-Codes&style=flat-square&color=blue" alt=""/>
-
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 <!--
 **Crash-Codes/Crash-Codes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
